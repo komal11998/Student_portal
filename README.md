@@ -1,4 +1,16 @@
 # Student_portal
+
+
+This project has been developed to facilitate online classes and includes essential features such as a class timetable and direct links for joining the classes. Key features encompass:
+
+- Provision of a class timetable.
+- Dispensing direct classroom links.
+- A dedicated page for distributing assignments, allowing students to conveniently access and review their assignments.
+  
+In the future, the project aims to expand its capabilities by:
+
+- Creating a teacher portal to enable educators to effortlessly update classroom links and timetables.
+- Introducing a dynamic attendance sheet for improved attendance management.
  
  
 
